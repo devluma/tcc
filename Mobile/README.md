@@ -1,2 +1,2 @@
-# tcc
-TCC Senac 2017
+# APP Mobile
+Aplicativo básico para Android e IOS
